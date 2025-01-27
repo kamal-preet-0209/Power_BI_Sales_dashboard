@@ -35,7 +35,7 @@ Top Customers
 Vaani, Pooja, and Abhishek are the highest revenue-generating customers, each contributing around ₹8,000, representing a loyal and valuable customer base for retention strategies.
 
 Profit Trends by Month
-Profits peak in March and December, while losses in April, May, and June suggest potential seasonality or operational inefficiencies that need addressing.
+Profits peak in March and November, while losses in April, May, and June suggest potential seasonality or operational inefficiencies that need addressing.
 
 Profit by Sub-Category
 Printers lead with ₹6,000 in profit, while Stoles perform the weakest, highlighting the need to optimize the product mix to focus on higher-profit sub-categories.
